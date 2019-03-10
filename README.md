@@ -12,6 +12,8 @@ Daftar Tutorial Bootstrap 4
 4. [Belajar Mengenai Popup Atau Modal Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-pop-up-atau-modal-bootstrap-4.html)
 5. [Belajar Jumbotron Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-jumbotron-bootstrap-4.html)
 6. [Belajar Card Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-card-part-6-bootstrap.html)
+7. [Belajar Form Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-form-bootstrap-4.html)
+8. [Belajar List Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-list-part-8-bootstrap-4.html)
 
 Jangan lupa buat lihat tutorial lain-Nya di 
 https://www.bewoksatukosong.com
@@ -45,4 +47,14 @@ https://www.bewoksatukosong.com
 ![Latihan keenam Card Bootstrap 4](https://github.com/geraldprambudi/Belajar-Bootstrap-4/blob/master/Part%206%20Card%20Bootstrap%204/Screenshot%20Part%206%20Card%20Bootstrap%204/5.png "Latihan keenam Card Bootstrap 4")
 <p align="center">
   Latihan keenam Card Bootstrap 4
+</p>
+
+![Latihan ketujuh Form Bootstrap 4](https://github.com/geraldprambudi/Belajar-Bootstrap-4/blob/master/Part%207%20Form%20Boostrap%204/Screenshot%20Part%207%20Form%20Boostrap%204/3.png "Latihan ketujuh Form Bootstrap 4")
+<p align="center">
+  Latihan ketujuh Form Bootstrap 4
+</p>
+
+![Latihan delapan List Bootstrap 4](https://github.com/geraldprambudi/Belajar-Bootstrap-4/blob/master/Part%208%20List%20Boostrap%204/Screenshot%20Part%208%20list%20Bootstrap%204/4.png "Latihan delapan List Bootstrap 4")
+<p align="center">
+  Latihan delapan List Bootstrap 4
 </p>
