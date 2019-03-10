@@ -14,6 +14,7 @@ Daftar Tutorial Bootstrap 4
 6. [Belajar Card Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-card-part-6-bootstrap.html)
 7. [Belajar Form Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-form-bootstrap-4.html)
 8. [Belajar List Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-list-part-8-bootstrap-4.html)
+8. [Belajar Font Awesome +  Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-cara-menggunakan-font-awesome-bootstrap-4.html
 
 Jangan lupa buat lihat tutorial lain-Nya di 
 https://www.bewoksatukosong.com
