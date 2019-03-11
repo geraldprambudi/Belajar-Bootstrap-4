@@ -14,7 +14,8 @@ Daftar Tutorial Bootstrap 4
 6. [Belajar Card Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-card-part-6-bootstrap.html)
 7. [Belajar Form Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-form-bootstrap-4.html)
 8. [Belajar List Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-menggunakan-list-part-8-bootstrap-4.html)
-9. [Belajar Font Awesome +  Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-cara-menggunakan-font-awesome-bootstrap-4.html)
+9. [Belajar Font Awesome + Bootstrap 4 ](https://www.bewoksatukosong.com/2019/03/belajar-cara-menggunakan-font-awesome-bootstrap-4.html)
+10. [Belajar Membuat Template Bootstrap 4 Final ](https://www.bewoksatukosong.com/2019/03/belajar-cara-membuat-template-bootstrap-4-part-10.html)
 
 Jangan lupa buat lihat tutorial lain-Nya di 
 https://www.bewoksatukosong.com
@@ -58,4 +59,9 @@ https://www.bewoksatukosong.com
 ![Latihan delapan List Bootstrap 4](https://github.com/geraldprambudi/Belajar-Bootstrap-4/blob/master/Part%208%20List%20Boostrap%204/Screenshot%20Part%208%20list%20Bootstrap%204/4.png "Latihan delapan List Bootstrap 4")
 <p align="center">
   Latihan delapan List Bootstrap 4
+</p>
+
+![Template Bootstrap Bootstrap 4](https://github.com/geraldprambudi/Belajar-Bootstrap-4/blob/master/Part%20Final%2010%20Belajar%20Membuat%20Template%20%20Boostrap%204/Screenshot%20Part%2010%20FInal%20Bootstrap%204/final.png "Template Bootstrap Bootstrap 4")
+<p align="center">
+  Template Bootstrap Bootstrap 4
 </p>
